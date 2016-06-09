@@ -49,3 +49,5 @@ public class NotificationPromise<T>: Promise<T> {
         super.init(resolvers: resolvers)
     }
 }
+
+//BY lipe tester
